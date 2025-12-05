@@ -1,4 +1,4 @@
-FROM python:3.13.0b4-slim
+FROM python:3.14.1-slim
 
 # Create working folder and install dependencies
 WORKDIR /app
